@@ -9,9 +9,8 @@
 }
 
 .modal-body img {
-	width: 400px;
-	height: 600px;
-	object-fit: cover;
+	width: fit-content;
+	height: fit-content;
 }
 
 .modal-body {
